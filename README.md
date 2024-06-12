@@ -49,7 +49,7 @@ python --mode GRAPH --save_graphs_path ./graphs --device_target Ascend --device_
 
 ### 训练方式二：运行Jupyter Notebook
 
-您可以使用(https://github.com/playerrim/PDEPS/poisson.ipynb)Jupyter Notebook逐行运行训练和验证代码。
+您可以使用(https://github.com/playerrim/PDEPS/blob/main/poisson.ipynb)Jupyter Notebook逐行运行训练和验证代码。
 
 ## 结果展示
 
